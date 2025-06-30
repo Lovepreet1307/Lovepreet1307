@@ -35,12 +35,12 @@ Welcome to my GitHub! I'm a data scientist and machine learning practitioner wit
 - Achieved R² = 0.74 (LiDAR), 0.71 (Landsat-8)
 - 🎯 [Research publication in progress]
 
-### 🧍 3D Human Pose Estimation with Transformers (Sep 2024 – Dec 2024)
+### 🧍 3D Human Pose Estimation with Transformers 
 - Built 3D pose estimation pipeline using ViTPose and custom transformer
 - Trained and evaluated on 1.8M frames from TotalCapture dataset
 - Achieved **MPJPE: 65.96 mm** with strong spatial-temporal modeling
 
-### 🧠 Alzheimer’s Disease Classification (Aug 2022 – Dec 2022)
+### 🧠 Alzheimer’s Disease Classification
 - Developed multi-class classifier using RF, ANN, SVM, and Decision Trees
 - Addressed data imbalance and achieved **66.2% accuracy**
 - 📄 Published in *Procedia Computer Science* (Elsevier)
