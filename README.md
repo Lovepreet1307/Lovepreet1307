@@ -23,7 +23,7 @@ Welcome to my GitHub! I'm a data scientist and machine learning practitioner wit
 `NumPy` • `Pandas` • `Scikit-learn` • `TensorFlow` • `PyTorch` • `Keras` • `Matplotlib`
 
 **Tools & Platforms:**  
-`AWS` • `Git` • `Docker` • `Nginx` • `Power BI` • `Excel` • `Jira` • `Linux`
+`Git` • `Power BI` • `Excel` • `Jira` • `Linux`
 
 ---
 
