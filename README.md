@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Lovepreet Singh Gill!
 
-Welcome to my GitHub! I'm a data scientist and machine learning practitioner with experience across healthcare analytics, real-time predictive modeling, and intelligent systems development. I love transforming raw data into actionable insights using scalable and interpretable ML techniques.
+Welcome to my GitHub! I'm a Qualiy Analyst, data scientist and machine learning practitioner with experience across financial institutions, healthcare analytics, real-time predictive modeling, and intelligent systems development. I love transforming raw data into actionable insights using scalable and interpretable ML techniques.
 
 ---
 
