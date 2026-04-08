@@ -82,7 +82,7 @@ integration and regression testing processes
 ## 📫 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/lovepreet-singh-gill-59ab4017b/)  
-- ✉️ ls2gill@uwaterloo.ca
+- ✉️ lovepreetsingh.198055@gmail.com
 
 ---
 
