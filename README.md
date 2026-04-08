@@ -6,9 +6,9 @@ Welcome to my GitHub! I'm a data scientist and machine learning practitioner wit
 
 ## 🔍 About Me
 
-- 🎓 Master's student in Electrical and Computer Engineering (University of Waterloo, Canada)
-- 💼 Currently a **Data Science Developer** at *Thunder Bay Regional Health Research Institute*
-- 📊 Previously worked as **Machine Learning Intern** at *Fallyx* and **Software Test Engineer** at *uTrade Solutions Private Limited*
+- 🎓 Master's Degree in Electrical and Computer Engineering (University of Waterloo, Canada)
+- 💼 Currently an Analyst at *TCS*
+- 📊 Previously worked as **Data Scientist** at *Thunder Bay Regional Health Research Institute*,  **Machine Learning Intern** at *Fallyx* and **Software Test Engineer** at *uTrade Solutions Private Limited*
 - 🧠 Passionate about applied ML in healthcare and Data Analysis
 - ✍️ Actively working on research in Above Ground Biomass Estimation with publications underway
 
