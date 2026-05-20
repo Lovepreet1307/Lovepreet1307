@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Lovepreet Singh Gill!
 
-Welcome to my GitHub! I'm a Qualiy Analyst, data scientist and machine learning practitioner with experience across financial institutions, healthcare analytics, real-time predictive modeling, and intelligent systems development. I love transforming raw data into actionable insights using scalable and interpretable ML techniques.
+Welcome to my GitHub! I'm an Analyst, data scientist, and machine learning engineer with experience across financial institutions, healthcare analytics, real-time predictive modeling, and intelligent systems development. I love transforming raw data into actionable insights using scalable and interpretable ML techniques.
 
 ---
 
@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a Qualiy Analyst, data scientist and machine learning 
 
 - 🎓 Master's Degree in Electrical and Computer Engineering (University of Waterloo, Canada)
 - 💼 Currently an Analyst at *TCS*
-- 📊 Previously worked as **Data Scientist** at *Thunder Bay Regional Health Research Institute*,  **Machine Learning Intern** at *Fallyx* and **Software Test Engineer** at *uTrade Solutions Private Limited*
+- 📊 Previously worked as **Data Science Developer** at *Thunder Bay Regional Health Research Institute*,  **Machine Learning Intern** at *Fallyx* and **Software Test Engineer** at *uTrade Solutions Private Limited*
 - 🧠 Passionate about applied ML in healthcare and Data Analysis
 - ✍️ Actively working on research in Above Ground Biomass Estimation with publications underway
 
@@ -50,18 +50,8 @@ Welcome to my GitHub! I'm a Qualiy Analyst, data scientist and machine learning 
 ## 📈 Work Experience Highlights
 
 ### Analyst @ Tata Consultancy Services
-- Designed and executed 150+ functional, regression, and integration test cases per release cycle for online
-and mobile banking applications supporting 13M+ users, ensuring high-quality releases in an Agile
-(Scrum) environment
-- Performed accessibility testing in compliance with WCAG 2.0 and AODA standards, identifying issues
-related to screen reader compatibility, color contrast, and keyboard navigation, improving overall
-application usability and compliance
-- Analyzed business requirements, user stories, and acceptance criteria to derive test scenarios, achieving
-95%+ test coverage using both black-box and exploratory testing techniques
-- Logged, tracked, and prioritized defects in Jira with detailed reproduction steps, root cause insights, and
-impact analysis, contributing to a 25% reduction in post-release defects
-- Supported automation initiatives by validating test data, APIs, and backend data, strengthening
-integration and regression testing processes
+- Conducted data analysis and validation for online and mobile banking applications to ensure system accuracy and reliability.
+- Collaborated with development and business teams to identify issues, analyze requirements, and improve overall application performance.
 
 ### 🏥 Data Science Developer @ Thunder Bay Regional Health Research Institute
 - Built ML-ready pipelines on 1M+ ER & ambulance records (7+ years)
